@@ -1,2 +1,3 @@
 # Dijkstra
-Dijkstra Algorithm to find the Optimal Path
+
+Implemented the Dijkstra algorithm to determine optimal path in a given map in Python.
